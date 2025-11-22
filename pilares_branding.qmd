@@ -1,0 +1,124 @@
+---
+title: "Pilares del contenido & Branding"
+format:
+  html:
+    title-block-banner: "#0b1020"
+---
+
+## Pilares del contenido
+
+::: {.section-intro}
+Los pilares no son aún formatos concretos, sino los <strong>tres ejes conceptuales</strong> que dan identidad al canal.
+:::
+
+::: {.grid .pillars}
+::: {.pillar-card}
+<div class="pillar-icon">⚡</div>
+<h3>Pilar 1 · Energías renovables</h3>
+<p>
+Explicar qué se investiga y qué se construye en el IER-UNAM: sistemas solares, confort térmico, eficiencia, etc.
+</p>
+<p class="pill-role">Rol: aportar credibilidad y mostrar ciencia real.</p>
+:::
+
+::: {.pillar-card}
+<div class="pillar-icon">🐍</div>
+<h3>Pilar 2 · Python para la ciencia</h3>
+<p>
+Mostrar cómo el código forma parte del laboratorio: análisis de datos, simulaciones y visualizaciones.
+</p>
+<p class="pill-role">Rol: lado geek / tech / datos del canal.</p>
+:::
+
+::: {.pillar-card}
+<div class="pillar-icon">🔬</div>
+<h3>Pilar 3 · Ciencia cotidiana</h3>
+<p>
+Responder preguntas del día a día y proponer experimentos sencillos y seguros.
+</p>
+<p class="pill-role">Rol: generar conexión, curiosidad y potencial de viralidad.</p>
+:::
+:::
+
+## Branding inicial
+
+::: {.grid .cards-2}
+::: {.card-stem}
+### 🎨 Paleta propuesta
+
+::: {.palette}
+::: {.color-swatch}
+<span class="color-chip" style="--swatch-color:#0B1020;"></span>
+<div class="color-info"><strong>Fondo oscuro</strong><span class="color-code">#0B1020</span></div>
+:::
+::: {.color-swatch}
+<span class="color-chip" style="--swatch-color:#00E5FF;"></span>
+<div class="color-info"><strong>Cian neón (tech)</strong><span class="color-code">#00E5FF</span></div>
+:::
+::: {.color-swatch}
+<span class="color-chip" style="--swatch-color:#FF6B6B;"></span>
+<div class="color-info"><strong>Coral (énfasis)</strong><span class="color-code">#FF6B6B</span></div>
+:::
+::: {.color-swatch}
+<span class="color-chip" style="--swatch-color:#FFE066;"></span>
+<div class="color-info"><strong>Amarillo energía</strong><span class="color-code">#FFE066</span></div>
+:::
+::: {.color-swatch}
+<span class="color-chip" style="--swatch-color:#F5F5F5;"></span>
+<div class="color-info"><strong>Blanco suave</strong><span class="color-code">#F5F5F5</span></div>
+:::
+:::
+
+Usos:
+
+- Portada del canal  
+- Miniaturas / overlays de texto  
+- PDFs, sitio web y redes sociales  
+:::
+
+::: {.card-stem}
+### 🧬 Identidad y tono
+
+- Tono cercano, curioso y geek.  
+- Visual limpio, con bloques y acentos neón.  
+- Iconografía:
+  - energía ⚡  
+  - ciencia 🔬  
+  - datos 📊  
+  - código `</>`
+:::
+:::
+
+## Nombre y logo (para discutir)
+
+::: {.grid .cards-2}
+::: {.card-mini}
+### 🔤 Nombre del canal
+
+Criterios:
+
+- Fácil de recordar  
+- Relacionado con ciencia / energía / código / curiosidad  
+- Disponible como usuario en TikTok  
+
+:::
+
+::: {.card-mini}
+### 🔗 Logo / ícono
+
+Ideas generales:
+
+- Símbolo de energía (rayo, sol, onda) combinado con ciencia o datos (átomo, gráfica, `</>`).  
+- Diseño sencillo y reconocible en tamaño pequeño.  
+- Uso de la paleta de colores propuesta.
+:::
+:::
+
+## Preguntas clave para la reunión
+
+::: {.card-stem}
+- ¿Nos sentimos cómodos con estos tres pilares?  
+- ¿Qué pilar queremos que sea la “cara” inicial del canal?  
+- ¿Qué tipo de nombre imaginamos (serio, juguetón, geek)?  
+- ¿Qué papel queremos que tenga el IER (marca visible, invitados, etc.)?
+:::

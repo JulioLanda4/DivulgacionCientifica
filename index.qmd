@@ -1,0 +1,76 @@
+---
+title: "Propuesta de Canal de Divulgación STEM"
+subtitle: "Energías Renovables ⚡ · Python 🐍 · Ciencia Cotidiana 🔬"
+format:
+  html:
+    title-block-banner: "#0b1020"
+---
+
+::: {.hero}
+<div class="hero-badge">Propuesta de proyecto</div>
+<h1>Divulgación STEM desde el IER-UNAM</h1>
+<p class="hero-subtitle">
+Energías renovables, Python y ciencia cotidiana explicados en el lenguaje de TikTok.
+</p>
+<div class="hero-tags">
+  <span class="tag tag-cyan">Energía</span>
+  <span class="tag tag-yellow">Código</span>
+  <span class="tag tag-coral">Experimentos</span>
+  <span class="tag tag-light">TikTok · STEM</span>
+</div>
+:::
+
+::: {.section-intro}
+Queremos conectar dos mundos:
+
+- El mundo donde <strong>ya hacemos ciencia y tecnología</strong> todos los días (IER-UNAM).
+- El mundo donde <strong>la gente consume contenido</strong> todos los días (TikTok, especialmente su sección STEM).
+
+La propuesta es transformar nuestra experiencia en energías renovables, Python científico y ciencia cotidiana en contenido corto, visual y entretenido.
+:::
+
+::: {.pill-row}
+<div class="pill">
+  <h3>¿Qué queremos crear?</h3>
+  <p>Un canal STEM joven, geek y honesto, con base científica real.</p>
+</div>
+<div class="pill">
+  <h3>¿Para quién?</h3>
+  <p>Estudiantes, público curioso y comunidad interesada en ciencia aplicada.</p>
+</div>
+<div class="pill">
+  <h3>¿Desde dónde?</h3>
+  <p>Desde el IER-UNAM, con proyectos reales en energías renovables y Python.</p>
+</div>
+:::
+
+## Visión general
+
+::: {.card-stem}
+### 🎯 Idea central
+
+> Convertir lo que hacemos en el IER-UNAM, lo que sabemos de Python y lo que observamos en la vida diaria en contenido STEM corto, visual y entretenido, que cualquier persona pueda entender y disfrutar.
+:::
+
+::: {.grid .cards-2}
+::: {.card-mini}
+### 🔍 ¿Qué nos hace distintos?
+
+- No inventamos proyectos “para TikTok”.
+- Partimos de <strong>investigación y desarrollo real</strong>.
+- Podemos mostrar ciencia por dentro: laboratorio, datos, prototipos.
+:::
+
+::: {.card-mini}
+### 📱 ¿Por qué TikTok?
+
+- Es la plataforma donde está la audiencia joven.  
+- TikTok ya impulsa una <strong>sección STEM</strong>.  
+- Falta contenido con <strong>rigor + diseño atractivo</strong>.
+:::
+:::
+
+::: {.closing}
+<h2>En una frase</h2>
+<p><strong>Un canal donde la energía, el código y la vida diaria se juntan para explicar el mundo.</strong></p>
+:::

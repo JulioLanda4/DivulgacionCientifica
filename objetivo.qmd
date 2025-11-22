@@ -1,0 +1,70 @@
+---
+title: "Objetivo · Por qué · Para qué"
+format:
+  html:
+    title-block-banner: "#111827"
+---
+
+## Objetivo general
+
+::: {.card-stem}
+> Crear un canal de divulgación científica en TikTok que comunique ciencia de forma clara, visual y entretenida, combinando:
+>
+> - ⚡ Energías renovables explicadas desde el IER-UNAM  
+> - 🐍 Python aplicado a la ciencia  
+> - 🔬 Ciencia cotidiana y experimentos sencillos  
+>
+> para acercar la ciencia a personas que hoy consumen sobre todo contenido de entretenimiento.
+:::
+
+## ¿Por qué hacerlo?
+
+::: {.grid .cards-2}
+::: {.card-mini}
+### 📈 Momento perfecto
+- TikTok impulsa contenido STEM verificado.  
+- Hay demanda real de explicaciones breves y confiables.  
+- Pocas cuentas combinan energía, código y vida diaria con respaldo de un instituto.
+:::
+
+::: {.card-mini}
+### 🧪 Nuestro valor
+- Experiencia directa en el <strong>IER-UNAM</strong>.  
+- Trabajo previo en proyectos de energías renovables.  
+- Uso cotidiano de <strong>Python científico</strong>.  
+- Acceso a laboratorios, dispositivos, datos y prototipos reales.
+:::
+:::
+
+## ¿Para qué hacerlo?
+
+::: {.grid .cards-3}
+::: {.card-mini}
+### 🎓 Impacto educativo
+- Inspirar vocaciones STEM.  
+- Hacer digeribles temas complejos.  
+- Mostrar cómo se ve la ciencia “por dentro”.
+:::
+
+::: {.card-mini}
+### 🚀 Impacto profesional
+- Construir identidad como divulgadores STEM.  
+- Crear un portafolio público de divulgación.  
+- Abrir puertas a talleres, proyectos e invitaciones.
+:::
+
+::: {.card-mini}
+### 🌍 Impacto social
+- Combatir desinformación.  
+- Hablar de energía, clima y tecnología con responsabilidad.  
+- Conectar ciencia con problemas cotidianos.
+:::
+:::
+
+::: {.card-stem}
+### ❤️ Propósito personal
+
+- Disfrutar el proceso creativo.  
+- Aprender a comunicar mejor lo que hacemos.  
+- Hacer divulgación desde nuestro contexto: en español, desde México y desde el IER-UNAM.
+:::

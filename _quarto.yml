@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Divulgación STEM IER-UNAM"
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Objetivo"
+        href: objetivo.qmd
+      - text: "Pilares & Branding"
+        href: pilares_branding.qmd
+
+format:
+  html:
+    theme:
+      light: zephyr     # moderno claro
+      dark: vapor       # oscuro, tecnológico, geek
+    toc: false
+    page-layout: full
+    css: styles.css
+  pdf:
+    documentclass: article
+    papersize: letter
+    fontsize: 11pt
+    number-sections: false
+    colorlinks: true
+    geometry:
+      - margin=2.5cm
+
+execute:
+  echo: false
+  warning: false
+  message: false
